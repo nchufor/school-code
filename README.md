@@ -1,3 +1,3 @@
 # school-code
 this is the feature1 branch 
-this is the secoond 
+this is the second 
